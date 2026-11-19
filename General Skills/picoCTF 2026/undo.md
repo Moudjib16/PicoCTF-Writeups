@@ -77,7 +77,7 @@ nc xebec.cylabacademy.net 42558
   ```bash
   tr "A-Za-z" "N-ZA-Mn-za-m"
   ```
-- **Output:** `academy{Revers1ng_t3xt_Tr4nsf0rm@t10ns_80c914b7}`
+- **Output:** `academy{REDACTED}`
 
 ---
 
@@ -97,5 +97,5 @@ echo "KTdvNDE5cDA4LWZhMDFnQHplMHNmYTRlRy1nazNnLXRhMWZlcmlyRShsenJxbnBu" \
 
 ## Flag
 ```text
-academy{Revers1ng_t3xt_Tr4nsf0rm@t10ns_80c914b7}
+academy{REDACTED@}
 ```
