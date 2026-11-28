@@ -87,7 +87,7 @@ Reading the output file reveals the flag:
 
 ```bash
 cat decrypted_message.txt
-# Output: academy{rs4_k3y_1n_1mg_XXXXXXXX}
+# Output: academy{REDACTED}
 ```
 
 ---

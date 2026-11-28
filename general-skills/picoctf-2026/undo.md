@@ -98,5 +98,5 @@ echo "KTdvNDE5cDA4LWZhMDFnQHplMHNmYTRlRy1nazNnLXRhMWZlcmlyRShsenJxbnBu" \
 
 ## Flag
 ```text
-academy{REDACTED@}
+academy{REDACTED}
 ```
