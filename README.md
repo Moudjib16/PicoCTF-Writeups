@@ -100,6 +100,7 @@ The challenges are solved through **picoCTF** and the **CyLab Security Academy**
 
 | Challenge | Event | Difficulty | Technique |
 |---|---|---|---|
+| [dont-use-client-side](web-exploitation/picoctf-2019/dont-use-client-side.md) | picoCTF 2019 | Easy | Password checked in client-side JavaScript |
 | [Insp3ct0r](web-exploitation/picoctf-2019/insp3ct0r.md) | picoCTF 2019 | Easy | Reading client-side HTML, CSS and JS |
 | [where are the robots](web-exploitation/picoctf-2019/where-are-the-robots.md) | picoCTF 2019 | Easy | `robots.txt` disclosure |
 | [Old Sessions](web-exploitation/picoctf-2026/old-sessions.md) | picoCTF 2026 | Easy | Session hijacking with a leaked token |
