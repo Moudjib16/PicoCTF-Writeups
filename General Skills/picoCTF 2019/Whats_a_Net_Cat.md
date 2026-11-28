@@ -46,7 +46,7 @@ The server returns:
 
 ```text
 You're on your way to becoming the net cat master
-academy{nEtCat_Mast3ry_abbFbc0e}
+academy{REDACTED}
 ```
 
 The flag is included directly in the server's response.
@@ -56,5 +56,5 @@ The flag is included directly in the server's response.
 ## 4. Flag
 
 ```text
-academy{nEtCat_Mast3ry_abbFbc0e}
+academy{REDACTED}
 ```

@@ -50,7 +50,7 @@ The command prints the file contents directly to the terminal.
 The supplied file contains:
 
 ```text
-academy{s4n1ty_v3r1f13d_61ddac22}
+academy{REDACTED}
 ```
 
 ---
@@ -58,7 +58,7 @@ academy{s4n1ty_v3r1f13d_61ddac22}
 ## 4. Flag
 
 ```text
-academy{s4n1ty_v3r1f13d_61ddac22}
+academy{REDACTED}
 ```
 
-**Note:** The supplied file contains an `academy{...}` flag rather than the usual `picoCTF{...}` format. The value above is copied exactly from the file.
+**Note:** The supplied file contains an `academy{...}` flag rather than the usual `picoCTF{...}` format.
