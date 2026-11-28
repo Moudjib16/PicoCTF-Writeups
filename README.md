@@ -2,7 +2,7 @@
 
 Step-by-step writeups for [picoCTF](https://picoctf.org/) challenges, explaining the reasoning, tools and key takeaways behind each solve.
 
-![Writeups](https://img.shields.io/badge/writeups-55-blue)
+![Writeups](https://img.shields.io/badge/writeups-56-blue)
 ![Last commit](https://img.shields.io/github/last-commit/Moudjib16/PicoCTF-Writeups)
 ![picoCTF](https://img.shields.io/badge/platform-picoCTF-orange)
 
@@ -23,9 +23,9 @@ The challenges are solved through **picoCTF** and the **CyLab Security Academy**
 | [General Skills](#general-skills) | 27 |
 | [AI Foundations](#ai-foundations) | 16 |
 | [Cryptography](#cryptography) | 8 |
-| [Web Exploitation](#web-exploitation) | 3 |
+| [Web Exploitation](#web-exploitation) | 4 |
 | [Forensics](#forensics) | 1 |
-| **Total** | **55** |
+| **Total** | **56** |
 <!-- progress:end -->
 
 ---
